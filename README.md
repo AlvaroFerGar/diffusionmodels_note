@@ -6,13 +6,15 @@ This repo is a modified version of the [Google Colab Notebook](https://colab.res
 - Added a checkpoint saving feature, so no worries about losing progress during training 💾.
 - Since I'm learning the basics of diffusion models, I've added a bunch of comments in the code and markdown cells 📝.
 
-The best model generated during training is saved in the `models/` folder. You can also check out some generated images in the `images/` folder
+The best model generated during training can be found in [Kaggle](https://www.kaggle.com/models/alvarofg21/eurosat_diffusionmodel). You can also check out some generated images in the `images/` folder
 
-You can have a quick look at the results in the image above.
+You can have a quick look at the results* in the image above.
 
+** *with a little higher contrast for enhancement ** 😏
 
+![Mosaic comparation](images/mosaic_comparation.png)
 
-Also, i leave here some references that may be useful if you are also learnign about diffusion models.
+Also, i leave here some references that may be useful if you are also learning about diffusion models.
 
 ## Useful References for Diffusion Models 🔍
 
